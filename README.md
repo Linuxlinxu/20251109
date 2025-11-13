@@ -15,8 +15,7 @@
 #插入图片<br>
 ![我的照片](C://Users//于铭旭//DESKtop//简历//证件照.jpg "777")
 
-````
-````c
+```c
 	#include<stdio.h>
 	int main(void)
 	{
@@ -24,8 +23,7 @@
 		return 0;
 
 	}
-````
-````
+```
 
 
 * PRG
