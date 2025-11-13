@@ -2,6 +2,11 @@
 
 int main(void)
 {
-	printf("testing..\n");
+	
+	printf("assadafasc\n");
+	printf("123456\n");
+	
+	sleep(1);
 	return 0;
+
 }
