@@ -12,3 +12,5 @@
 
 [百度](https://www.baidu.com "666")
 
+#插入图片
+![我的照片](C://Users//于铭旭//DESKtop//简历//证件照.jpg "777")
