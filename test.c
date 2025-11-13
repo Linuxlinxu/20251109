@@ -7,6 +7,7 @@ int main(void)
 	printf("123456\n");
 	
 	sleep(1);
+	printf("version\n");
 	return 0;
 	printf("adaaaa\n");
 }
